@@ -1,2 +1,2 @@
 [alias]
-	staash = stash --include-untracked
+  staash = stash --include-untracked
