@@ -1,0 +1,27 @@
+{
+  "name": "dotfiles",
+  "version": "1.0.0",
+  "description": "dotfiles from Artem Danshin",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtDanshin/dotfiles.git"
+  },
+  "keywords": [],
+  "author": "Artem Danshin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArtDanshin/dotfiles/issues"
+  },
+  "homepage": "https://github.com/ArtDanshin/dotfiles#readme",
+  "devDependencies": {
+    "@babel/eslint-parser": "7.11.5",
+    "eslint": "7.8.0",
+    "eslint-config-airbnb": "18.2.0",
+    "eslint-plugin-import": "2.22.0",
+    "eslint-plugin-jsdoc": "30.3.0",
+    "eslint-plugin-jsx-a11y": "6.3.1",
+    "eslint-plugin-react": "7.20.6",
+    "eslint-plugin-react-hooks": "4.1.0",
+    "eslint-plugin-unicorn": "21.0.0"
+  }
+}
